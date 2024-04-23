@@ -1,0 +1,94 @@
+.myborder{
+    /* border: 2px solid rgb(0, 0, 0); */
+}
+
+.alphbet{
+    display: flex;
+    background-color: rgb(58, 58, 36);
+    gap: 10px;
+    
+}
+
+.abcde{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.ab{
+    display: flex;
+    gap: 10px;
+}
+
+.a{
+    height: 100px;
+    width: 120px;
+    background-color: rgb(235, 235, 235);
+}
+
+.b{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(235, 235, 235);
+}
+
+.cde{
+    display: flex;
+    gap: 10px;
+
+}
+
+.cd{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.c{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(235, 235, 235);
+}
+
+.d{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(235, 235, 235);
+}
+
+.e{
+    height: 150px;
+    width: 250px;
+    background-color: rgb(235, 235, 235);
+}
+
+.fgh{
+    display: flex;
+    gap: 10px;
+}
+
+.f{
+    height: 270px;
+    width: 100px;
+    background-color: rgb(235, 235, 235);
+}
+
+.gh{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.g{
+    height: 200px;
+    width: 100px;
+    background-color: rgb(235, 235, 235);
+}
+
+.h{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(235, 235, 235);
+}
